@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.weather-container {
+    margin-top: 50px;
+}
+
+.weather-icon {
+    width: 150px;
+    height: 150px;
+}
